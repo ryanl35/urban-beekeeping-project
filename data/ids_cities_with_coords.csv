@@ -1,0 +1,121 @@
+Hive ID,City,State,Latitude,Longitude,Health
+S017757,Phippsburg,Maine,43.820638,-69.8147684,N/A
+S017756,Boston,Massachusetts,42.3602534,-71.0582912,N/A
+S017752,New York,New York,40.7127281,-74.0060152,N/A
+S011889,Tonasket,Washington,48.7050075,-119.4372001,N/A
+S011878,Warner,New Hampshire,43.280705,-71.81694,N/A
+S017759,Los Angeles,California,34.0536909,-118.2427666,N/A
+S011869,Waccabuc,New York,41.300315,-73.5761584,Troubled
+S011891,North Bend,Washington,47.4959464,-121.7851542,N/A
+S017762,Los Angeles,California,34.0536909,-118.2427666,N/A
+S017763,Los Angeles,California,34.0536909,-118.2427666,N/A
+S017407,Merrimack,New Hampshire,43.3260376,-71.6854725,N/A
+S017406,Merrimack,New Hampshire,43.3260376,-71.6854725,N/A
+S017405,Merrimack,New Hampshire,43.3260376,-71.6854725,N/A
+S017402,Merrimack,New Hampshire,43.3260376,-71.6854725,N/A
+S017401,Merrimack,New Hampshire,43.3260376,-71.6854725,N/A
+S017751,Chatsworth,California,34.2595715,-118.6023247,N/A
+S017404,Boxford,Massachusetts,42.67774685,-71.00127464,N/A
+S017403,Woburn,Massachusetts,42.4792618,-71.1522766,Good
+S011897,Pittsburg,Pennsylvania,40.4416941,-79.9900861,N/A
+S017410,Wayland,Massachusetts,42.3632063,-71.3606721,N/A
+S011892,Verona,Pennsylvania,40.5064571,-79.843105,N/A
+S017415,Wayland,Massachusetts,42.3632063,-71.3606721,N/A
+S011884,Duxbury,Massachusetts,42.0417695,-70.672259,N/A
+S011862,Duxbury,Massachusetts,42.0417695,-70.672259,N/A
+S011893,Altadena,California,34.1863161,-118.1352329,N/A
+S011845,Washington,District-of-Columbia,38.8948932,-77.0365529,N/A
+S011846,Truro,Massachusetts,41.993437,-70.0497457,N/A
+S011890,Westport,Connecticut,41.1414855,-73.3578955,N/A
+S017417,Bethesda,Maryland,38.9819845,-77.12423413,N/A
+S011885,Wayland,Massachusetts,42.3632063,-71.3606721,Good
+S011886,Lincoln,Massachusetts,42.4259283,-71.3039469,N/A
+S011899,Beverly,Massachusetts,42.5584284,-70.8800491,N/A
+S011868,Russell,New York,44.429612,-75.150261,N/A
+S011881,Lincoln,Massachusetts,42.4259283,-71.3039469,Good
+S011880,Chestnut Hill,Massachusetts,42.3306529,-71.1661647,Good
+S011888,Providence,Rhode Island,41.8239891,-71.4128343,N/A
+S011882,Boston,Massachusetts,42.3602534,-71.0582912,N/A
+S011874,Shrewsbury,Massachusetts,42.283828,-71.7172866,Troubled
+S011861,New York,New York,40.7127281,-74.0060152,
+S011850,New Canaan,Connecticut,41.1458207,-73.4963532,Good
+S011849,New Canaan,Connecticut,41.1458207,-73.4963532,Good
+S011852,Nashville,Tennessee,36.1622296,-86.7743531,N/A
+S011851,Bristol,Rhode Island,41.7034082,-71.2844401,N/A
+S011844,Medford,Massachusetts,42.4184296,-71.1061639,N/A
+S011843,Morristown,New Jersey,40.7970384,-74.4809492,Good
+S011842,Woodstock,Vermont,43.6244967,-72.518794,N/A
+S011840,Davidson,Maryland,39.0125945,-76.460786,N/A
+S011832,Cambridge,Massachusetts,42.3750997,-71.1056157,N/A
+S011835,Jacksonville,Oregon,42.314411,-122.965346,N/A
+S011833,Mattapoisett,Massachusetts,41.658438,-70.8161468,N/A
+S011831,Sudbury,Massachusetts,42.3834278,-71.4161725,Good
+S011808,Lincoln,Massachusetts,42.4259283,-71.3039469,Good
+S011829,Sudbury,Massachusetts,42.3834278,-71.4161725,N/A
+S005716,Canoga Park,California,34.2010776,-118.5978259,N/A
+S011821,Acton,Massachusetts,42.4850931,-71.43284,N/A
+S011812,Cambridge,Massachusetts,42.3750997,-71.1056157,Good
+S011820,Provincetown,Massachusetts,42.058436,-70.1786375,N/A
+S011814,Provincetown,Massachusetts,42.058436,-70.1786375,N/A
+S011813,Bedford,Massachusetts,42.4917301,-71.2817947,Troubled
+S011801,Chilmark,Massachusetts,41.3431688,-70.7447501,N/A
+S011805,South Hampton,New Hampshire,42.8809229,-70.9625559,N/A
+S011804,Malden,Massachusetts,42.4250964,-71.066163,N/A
+S011803,Lexington,Massachusetts,42.4473175,-71.2245003,Good
+S011802,Wayland,Massachusetts,42.3632063,-71.3606721,Good
+S011800,Sharon,Massachusetts,42.1237102,-71.1786627,Good
+S005751,Waccabuc,New York,41.300315,-73.5761584,N/A
+S005761,Ira,Vermont,43.5345134,-73.0620512,N/A
+S005729,Brooklyn,New York,40.6501038,-73.9495823,Good
+S005713,Wilmington,Delaware,39.7459468,-75.546589,N/A
+S005704,Dartmouth,Massachusetts,41.6332267,-70.9879928,
+S005705,Dartmouth,Massachusetts,41.6332267,-70.9879928,Excellent
+S005702,Brookline,Massachusetts,42.3317642,-71.1211635,Excellent
+S0011806,Eastham,Massachusetts,41.8301081,-69.973907,N/A
+S005710,Boston,Massachusetts,42.3602534,-71.0582912,Good
+S005718,Hingham,Massachusetts,42.2417669,-70.8897676,N/A
+S005728,Arlington,Massachusetts,42.4153739,-71.1564428,Good
+S005711,Windham,New Hampshire,42.8006441,-71.304229,Good
+S011818,Denver,Colorado,39.7392364,-104.9848623,N/A
+S011816,Chicago,Illinois,41.8755616,-87.6244212,N/A
+S011807,Chicago,Illinois,41.8755616,-87.6244212,N/A
+S011815,Chicago,Illinois,41.8755616,-87.6244212,N/A
+S0011817,Denver,Colorado,39.7392364,-104.9848623,N/A
+S005721,Portland,Oregon,45.5202471,-122.6741949,N/A
+S005722,Los Angeles,California,34.0536909,-118.2427666,N/A
+S005730,Los Angeles,California,34.0536909,-118.2427666,N/A
+S005706,Boston,Massachusetts,42.3602534,-71.0582912,N/A
+S005720,Seattle,Washington,47.6038321,-122.3300624,N/A
+S005701,San Mateo,California,37.496904,-122.3330573,N/A
+S005731,New York,New York,40.7127281,-74.0060152,N/A
+S005715,Bedford,New York,41.2042741,-73.6426507,Troubled
+S005727,Medfield,Massachusetts,42.1865609,-71.30546,N/A
+S005738,Sudbury,Massachusetts,42.3834278,-71.4161725,
+S005739,Lincoln,Massachusetts,42.4259283,-71.3039469,N/A
+S005712,Jeffersonville,Vermont,44.644231,-72.829742,N/A
+S005770,Cambridge,Massachusetts,42.3750997,-71.1056157,N/A
+S005748,Los Angeles,California,34.0536909,-118.2427666,N/A
+S005725,Davidsonville,Maryland,38.9228697,-76.6277374,N/A
+S005774,Tiverton,Rhode Island,41.6257406,-71.166333,N/A
+S005773,Cambridge,Massachusetts,42.3750997,-71.1056157,N/A
+S005790,Marion,Massachusetts,41.7001043,-70.7628129,Good
+S005757,Arlington,Massachusetts,42.4153739,-71.1564428,Good
+S005759,Newton,Massachusetts,42.3370414,-71.2092214,N/A
+S005764,Arlington,Massachusetts,42.4153739,-71.1564428,N/A
+S005756,Boston,Massachusetts,42.3602534,-71.0582912,Dead
+S005724,Andover,Massachusetts,42.65717,-71.1408776,Good
+S005714,Billerica,Massachusetts,42.5584264,-71.268947,N/A
+S005785,Belmont,Massachusetts,42.3959296,-71.1786655,Good
+S005766,Boston,Massachusetts,42.3602534,-71.0582912,Good
+S005778,Boston,Massachusetts,42.3602534,-71.0582912,N/A
+S005745,Medfield,Massachusetts,42.1865609,-71.30546,N/A
+S005755,Boston,Massachusetts,42.3602534,-71.0582912,Good
+S005760,Newport,Rhode Island,41.4899827,-71.3137707,Good
+S005786,Duxbury,Massachusetts,42.0417695,-70.672259,N/A
+S005765,Cambridge,Massachusetts,42.3750997,-71.1056157,Troubled
+S005797,North Hampton,New Hampshire,42.9725895,-70.8297757,N/A
+S005733,Ashland,Oregon,42.1972487,-122.7153995,N/A
+S005732,Brooklyn,New York,40.6501038,-73.9495823,N/A
+S005742,Somerville,Massachusetts,42.3875968,-71.0994968,N/A
+S005799,Groton,Massachusetts,42.6112242,-71.5745402,N/A
+S005798,Newton Center,Massachusetts,42.3306528,-71.1994989,N/A

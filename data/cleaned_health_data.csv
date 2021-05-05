@@ -1,0 +1,41 @@
+,Sample Date,Hive Name,Tube ID#,Condition,Bee Population Sides,Brood Population Sides,Sides of Honey
+0,2016,Woolford,S005724,Good,60.0,6.0,25.0
+1,2016,Hodges LF,S005790,Good,25.0,0.0,24.0
+2,2016,Sutherland,S005760,Good,23.0,0.0,15.0
+3,2016,Bush LF,S005765,Troubled,2.0,4.0,20.0
+4,2016,Hastings RT,S005785,Good,10.0,2.0,10.0
+5,2016,LeBedis Mid,S005756,Dead,0.0,0.0,3.0
+6,2016,ReedBoston,S005755,Good,6.0,0.0,8.0
+7,2016,Kolchinksy,S005766,Good,8.0,0.0,12.0
+8,2016,LebedisRT,S005776,,,,
+9,2017,RombergSub,S005738,,,,
+10,2017,RombergLincolnRT,S011808,Good,14.0,0.0,12.0
+11,2017,Gallager,S005711,Good,10.0,4.0,9.0
+12,2017,Sherwood Rt,S005715,Troubled,9.0,,5.0
+13,2017,MaynardRT,S005710,Good,32.0,10.0,12.0
+14,2017,Robbins LF,S005757,Good,9.0,0.0,7.0
+15,2017,Corman,S005728,Good,30.0,1.0,16.0
+16,2017,CherryLF,S005702,Excellent,56.0,8.0,26.0
+17,2017,Pattullo Lf,S005704,,,,
+18,2017,WrobleRT,S005705,Excellent,35.0,0.0,20.0
+19,2017,Irish,S011806,Excellent,50.0,0.0,29.0
+20,2017,Klemmer,S011803,Good,25.0,10.0,6.0
+21,2017,Dunn,S005729,Good,6.0,0.0,0.0
+22,2017,HoughtalingMidLft,S011802,Good,14.0,0.0,10.0
+23,2017,Schoenfeld,S011800,Good,30.0,0.0,15.0
+24,2017,HBSMcArthurLF,S011812,Good,50.0,7.0,30.0
+25,2017,RombergLincolnRT,S011808,Good,14.0,0.0,12.0
+26,2017,Stein,S011831,Good,20.0,0.0,18.0
+27,2017,Romberg,S011831,Good,12.0,0.0,12.0
+28,2017,Brazil,S011843,Good,30.0,10.0,2.0
+29,2018,crbakerNYlf,S011861,,,,
+30,2018,Canning LF,S011849,Good,25.0,2.0,10.0
+31,2018,Canning RT,S011850,Good,25.0,2.0,8.0
+32,2018,Beaulieu,S011874,Troubled,20.0,3.0,4.0
+33,2018,WolfLf,S011881,Good,20.0,6.0,18.0
+34,2018,BonnerTree,S011880,Good,19.0,0.0,10.0
+35,2018,Helms,S011830,Troubled,45.0,0.0,20.0
+36,2017,BedfordLib,S011813,Troubled,6.0,2.0,6.0
+37,2018,HoughtalingRt,S011885,Good,38.0,13.0,18.0
+38,2019,Schneider,S011869,Troubled,44.0,8.0,23.0
+39,2019,Tyndall-Bergwall,S017403,Good,5.0,,
